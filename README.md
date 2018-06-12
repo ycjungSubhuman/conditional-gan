@@ -36,3 +36,12 @@ unzip the model and put each folder to `checkpoints/`
 `%run -i 'tensorflow_MNIST_cDCGAN.py' cdcgan-mnist-base2`
 `%run -i 'tensorflow_CelebA_cDCGAN.py' cdcgan-celebA-fid-every-epoch`
 
+## References
+
+@znxlwm 's codes https://github.com/znxlwm/tensorflow-MNIST-cGAN-cDCGAN
+@bioinf-jku 's codes https://github.com/znxlwm/tensorflow-MNIST-cGAN-cDCGAN
+
+Mirza, M., & Osindero, S. (2014). Conditional generative adversarial nets. arXiv preprint arXiv:1411.1784.
+
+Radford, A., Metz, L., & Chintala, S. (2015). Unsupervised representation learning with deep convolutional generative adversarial networks. arXiv preprint arXiv:1511.06434.
+
