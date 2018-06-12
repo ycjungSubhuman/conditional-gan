@@ -1,0 +1,5 @@
+data_interface/__pycache__
+__pycache__/
+MNIST_Dataset_*
+.ipynb*
+*~

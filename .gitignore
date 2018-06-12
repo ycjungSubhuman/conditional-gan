@@ -2,8 +2,6 @@ checkpoints/*
 !checkpoints/.gitkeep
 dataset/*
 !dataset/.gitkeep
-code/*
-!code/.gitkeep
 summary/*
 !summary/.gitkeep
 *~

@@ -1,5 +1,7 @@
 # cGAN-cDCGAN training
 
+![image](code/)
+
 ## Prerequisite
 
 * Download CelebA dataset.
