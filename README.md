@@ -1,4 +1,4 @@
-# cGAN-cDCGAN training
+# cGAN-cDCGAN Training + FID Evaluation
 
 ![image](code/tensorflow-MNIST-cGAN-cDCGAN/examples/mnist-cdcgan.png)
 ![image](code/tensorflow-MNIST-cGAN-cDCGAN/examples/celebA-cdcgan.png)
@@ -18,7 +18,7 @@
 * In your web browser, connect to localhost:6006 to launch Jupyter
 * Click `code/tensorflow-MNIST-cGAN-cDCGAN`
 * Create any notebook and launch `%run -i '(python script name)' (any run name you want)` to start training 
-* Check out the training intermediate results in tensorboard at `https://localhost:8888/`
+* Check out the training intermediate results in tensorboard at `https://localhost:6006/`
 
 Here are the list of python scripts
 
