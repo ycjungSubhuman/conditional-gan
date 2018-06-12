@@ -1,6 +1,7 @@
 # cGAN-cDCGAN training
 
-![image](code/)
+![image](code/tensorflow-MNIST-cGAN-cDCGAN/examples/mnist-cdcgan.png)
+![image](code/tensorflow-MNIST-cGAN-cDCGAN/examples/celebA-cdcgan.png)
 
 ## Prerequisite
 
